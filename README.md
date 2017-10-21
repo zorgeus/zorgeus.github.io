@@ -1,3 +1,3 @@
 # zorgeus.github.io
 
-Blank main page of the my github account
+Blank main page of my github account
